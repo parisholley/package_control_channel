@@ -497,6 +497,7 @@
 		"https://github.com/Pafsis/hookblime",
 		"https://github.com/palaniraja/iForce",
 		"https://github.com/PaNaVTEC/Objc-Strings-Syntax-Language",
+		"https://github.com/parisholley/sublime-nodeunit"
 		"https://github.com/patgannon/sublimetext-scalatest",
 		"https://github.com/patricktalmadge/Bootstrapper_snippets",
 		"https://github.com/paulollivier/sublimetext-date",
@@ -966,6 +967,7 @@
 		"RubyMotionSublimeCompletions": "RubyMotion Autocomplete",
 		"SASS-Build-SublimeText2": "SASS Build",
 		"sass-textmate-bundle": "Sass",
+		"sublime-nodeunit": "NodeUnit",
 		"Sublime-SBT-Runner": "SBT Runner",
 		"SCSS-Snippets": "SCSS Snippets",
 		"SCSS.tmbundle": "SCSS",
